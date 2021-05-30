@@ -1,6 +1,6 @@
-package com.tutorial.bridge;
+package com.tutorial.bridge.firstSample;
 
-import com.tutorial.bridge.Device;
+import com.tutorial.bridge.firstSample.Device;
 
 public class Tv implements Device {
     private boolean enabled = false;

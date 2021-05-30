@@ -1,4 +1,6 @@
-package com.tutorial.bridge;
+package com.tutorial.bridge.firstSample;
+
+import com.tutorial.bridge.firstSample.Device;
 
 public class Radio implements Device {
     private boolean enabled = false;

@@ -1,4 +1,4 @@
-package com.tutorial.bridge;
+package com.tutorial.bridge.firstSample;
 
 public interface Remote {
     void power();
