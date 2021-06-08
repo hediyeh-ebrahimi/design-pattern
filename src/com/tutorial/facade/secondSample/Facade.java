@@ -11,5 +11,9 @@ package com.tutorial.facade.secondSample;
 public class Facade {
     public static void main(String[] args) {
 
+        CalculationFacade calculationFacade = new CalculationFacade();
+        double calculate = calculationFacade.calculate(new Object());
+        System.out.println(calculate);
+
     }
 }
