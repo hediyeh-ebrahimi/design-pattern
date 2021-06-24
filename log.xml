@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-21T23:25:30</date>
+  <millis>1624301730203</millis>
+  <sequence>0</sequence>
+  <logger>Log</logger>
+  <level>FINEST</level>
+  <class>com.tutorial.chainOfResponsibility.secondSample.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest Message</message>
+</record>
+<record>
+  <date>2021-06-21T23:25:30</date>
+  <millis>1624301730262</millis>
+  <sequence>1</sequence>
+  <logger>Log</logger>
+  <level>FINE</level>
+  <class>com.tutorial.chainOfResponsibility.secondSample.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Fine Message</message>
+</record>
+<record>
+  <date>2021-06-21T23:25:30</date>
+  <millis>1624301730286</millis>
+  <sequence>2</sequence>
+  <logger>Log</logger>
+  <level>FINER</level>
+  <class>com.tutorial.chainOfResponsibility.secondSample.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer Message</message>
+</record>
+</log>
