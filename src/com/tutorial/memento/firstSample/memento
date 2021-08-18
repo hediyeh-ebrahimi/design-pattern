@@ -4,6 +4,6 @@
 طبق روالی که در بالا به آن اشاره شد الگوی Command به حافظه نیازی ندارد و با اجرای توابع به وضعیت می رسیم اما الگوی Memento نیازمند حافظه ای برای ذخیره اطلاعات وضعیت می باشد.
 در واقع الگوی Command زمینه را برای پیاده سازی عملیات فراهم می کند اما اطلاعاتی که در هر تغییر باید بازگردانی شود توسط الگوی Memento ذخیره می شود.
 
-orginator => setMemnt(),createMemento ----- save,add,restore
+orginator => setMemento(),createMemento ----- save,add,restore
 memento => getState(),setState()
 careTaker => -----show,write,save
