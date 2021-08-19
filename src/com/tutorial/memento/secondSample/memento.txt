@@ -1,0 +1,2 @@
+1- ctrl-z , rollback,undo
+2- originator (main object),memento (copy of orginator),caretaker (keeps memento object)
